@@ -26,7 +26,7 @@ Bonus Features <br />
 Real-Time Leaderboard Updates
 Real-Time Points: Points on the leaderboard are updated in real-time for all users playing simultaneously. <br />
 <br/>
-#Instructions to run the project locally: <br />
+**Instructions to run the project locally: <br />**
 **1. Frontend (React) <br />**
 **Setup <br />**
 Open the terminal and navigate to the frontend directory: <br />
