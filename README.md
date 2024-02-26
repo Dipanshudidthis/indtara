@@ -1,9 +1,9 @@
-###Emitrr Task (Exploding Kitten)###
-##Candidate name: Dipanshu Tiwari
-#Instructions to run the project locally:
-1. Frontend (React)
-Setup
-Open the terminal and navigate to the frontend directory:
+###Emitrr Task (Exploding Kitten)### <br />
+##Candidate name: Dipanshu Tiwari <br />
+#Instructions to run the project locally: <br />
+1. Frontend (React) <br />
+Setup <br />
+Open the terminal and navigate to the frontend directory: <br />
 ```
 cd frontend
 ```
@@ -16,21 +16,21 @@ Start the development server:
 ```
 npm run dev
 ```
-Open your browser and visit http://localhost:PORT to view the application, where PORT is the port your website is running on.
+Open your browser and visit http://localhost:PORT to view the application, where PORT is the port your website is running on. <br />
+<br />
+2.Backend (Go) <br />
+Prerequisites: <br />
+Make sure you have Redis installed and running locally on your system. <br />
+Setup <br />
+Open the terminal. <br />
 
-2.Backend (Go)
-Prerequisites
-Make sure you have Redis installed and running locally on your system.
-Setup
-Open the terminal.
+Run Redis on your local machine. <br />
 
-Run Redis on your local machine.
-
-Navigate to the backend directory:
+Navigate to the backend directory: 
 ```
 cd backend
 ```
-Run
+Run <br />
 Execute the following command to start the Go server:
 ```
 go run .
